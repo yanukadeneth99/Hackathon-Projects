@@ -1,0 +1,9 @@
+[submodule "Truedrop"]
+	path = Truedrop
+	url = https://github.com/yanukadeneth99/Truedrop
+[submodule "Fat-Tubbys"]
+	path = Fat-Tubbys
+	url = https://github.com/Aayushd18/Fat-Tubbys
+[submodule "NFTicket"]
+	path = NFTicket
+	url = https://github.com/Abbas-Khann/NFTicket
