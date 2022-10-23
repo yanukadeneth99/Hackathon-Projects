@@ -7,3 +7,6 @@
 [submodule "NFTicket"]
 	path = NFTicket
 	url = https://github.com/Abbas-Khann/NFTicket
+[submodule "Deeds"]
+	path = Deeds
+	url = https://github.com/yanukadeneth99/Deeds
